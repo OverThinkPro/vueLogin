@@ -61,7 +61,7 @@ export default {
   top: 10em;
   width: 40%;
   font-family: Arial;
-  .login-form
+  .register-form
     margin: 0 auto;
     width: 80%;
     font-size: 18px;
@@ -69,13 +69,13 @@ export default {
       padding-top: 10px;
       height: 60px;
       .label-info
-        width: 40%;
+        width: 45%;
         height: 60px;
         line-height: 60px;
         text-align: right;
         font-weight: bold;
       .input-info
-        width: 60%;
+        width: 55%;
         height: 35px;
         border-radius: 4px;
         font-size: 18px;
